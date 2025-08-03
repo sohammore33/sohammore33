@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my profile!
+😄 Myself Soham, an aspiring developer currently upskilling myself by learning various languages, tools, and databases.
+🔭 I am currently enrolled in B.Tech Computer Science and Engineering program in Manipal University Jaipur.
+⚡ I have interest in full-stack development and currently learning languages like HTML5, CSS3, JavaScript, ReactJS, etc.
 
 <!--
 **sohammore33/sohammore33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
